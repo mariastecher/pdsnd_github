@@ -9,7 +9,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Asks user to specify a city, month, and day to analyze. Makes sure to get valuable information.
 
     Returns:
         (str) city - name of the city to analyze
@@ -231,7 +231,7 @@ def main():
                 if restart.lower() == 'yes':
                      break
                 elif restart.lower() == 'no':
-                    print('You are welcome, see you later again.')
+                    print('You are welcome, see you later again!')
                     break
                 else: 
                     print('Your answer does not correspond to the expected value. Please enter yes or no.\n')
