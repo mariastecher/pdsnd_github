@@ -11,7 +11,7 @@ Bikeshare Data Analysis Project
 The bikeshare project allows the user to analyse bikeshare data from washington, chicago and new york city by answering simple questions on location, month and week of interest. It shows statistical data and calculated values. If wished it can show as well detailed insights into the data base. 
 
 ### Files used
-The files to provide data in that project area 
+The files to provide data in that project are: 
 * chicago.csv
 * new_york_city.csv
 * washington.csv
