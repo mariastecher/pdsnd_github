@@ -231,7 +231,7 @@ def main():
                 if restart.lower() == 'yes':
                      break
                 elif restart.lower() == 'no':
-                    print('You are welcome, see you later again.')
+                    print('You are welcome, see you later again!')
                     break
                 else: 
                     print('Your answer does not correspond to the expected value. Please enter yes or no.\n')
