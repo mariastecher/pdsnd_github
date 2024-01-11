@@ -16,6 +16,14 @@ The files to provide data in that project are:
 * new_york_city.csv
 * washington.csv
 
+### Contribution
+Find any typos? Have another resource you think should be included? Contributions are welcome!
+* First, fork this repository.
+* Next, clone this repository to your desktop to make changes.
+    `$ git clone {https://github.com/mariastecher/pdsnd_github}`
+    `$ cd pdsnd_github`
+* Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
+
 ### Credits
 Great thanks to the whole udacity team for getting me into programming. 
 Inspiring content can be found under the following [link](https://www.udacity.com/).
